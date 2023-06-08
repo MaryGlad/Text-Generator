@@ -31,3 +31,6 @@ Application is already ready on Anvil server, you just need to go to link
 https://glamorous-tremendous-badger.anvil.app/
 
 Then you just need to write your prompt in text box and push the button "GENERATE"
+
+<img width="1063" alt="image" src="https://github.com/MaryGlad/Text-Generator/assets/91690705/e2379874-3ab6-4479-b61a-af3fa5a23a4d">
+
