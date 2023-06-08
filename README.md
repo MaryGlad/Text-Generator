@@ -5,9 +5,9 @@
 First you need to download stories.txt and .ipynb file into your google drive
 
 Then change
-'''
+```
 data = pathlib.Path('/content/drive/MyDrive/stories.txt') 
-'''
+```
 to path where stories.txt located in your drive
 
 Optional you can tnable GPU acceleration to execute this notebook faster. 
@@ -17,9 +17,9 @@ In Colab: Runtime > Change runtime type > Hardware accelerator > GPU.
 
 First you need to download some libraries
 
-'''
+```
 !pip install anvil-uplink
-'''
+```
 
 Then you need to run entire Colab Notebook
 After traing model can be used in web application
